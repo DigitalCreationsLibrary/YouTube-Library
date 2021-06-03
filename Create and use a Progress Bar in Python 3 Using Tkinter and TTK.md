@@ -1,5 +1,5 @@
  
-In the following [video](https://youtu.be/_wp9LE0ywm8) [![Watch the video](https://img.youtube.com/vi/_wp9LE0ywm8/maxresdefault.jpg)](https://youtu.be/_wp9LE0ywm8)
+In the following [video](https://youtu.be/_wp9LE0ywm8) [![Watch the video](https://img.youtube.com/vi/_wp9LE0ywm8/hqdefault.jpg)](https://youtu.be/_wp9LE0ywm8)
 I explain how to create a Progress Bar using Tkinter in Python 3. The progress bar progression with correspond to the creation of a list of 100 values.
 Each value created will step forward the progress bar by 1.  
  
