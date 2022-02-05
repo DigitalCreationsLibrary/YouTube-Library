@@ -1,5 +1,5 @@
-# Coding
+# CodingDC
 
-In this repository you will find the source code related to all our future videos published in the *Youtube* channel **CodingDC**.
-I hope you will enjoy your journey 🙂.
+In this repository you will find the source code related the videos published in the **CodingDC** *Youtube* channel .
 
+*The channel*: https://www.youtube.com/c/CODINGDC
