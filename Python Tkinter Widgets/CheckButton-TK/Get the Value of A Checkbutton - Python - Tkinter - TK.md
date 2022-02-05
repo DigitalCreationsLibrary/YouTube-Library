@@ -1,6 +1,6 @@
 [![Everything Is AWESOME](https://img.youtube.com/vi/_wp9LE0ywm8/hqdefault.jpg)](https://youtu.be/_wp9LE0ywm8?t=35s "Everything Is AWESOME")
 
-In the above video I explain how to get the value from a Checkbuton from Tkinter in Python 3.
+In the above video I explain how to get the value from a Checkbuton created with Tkinter in Python 3.
  
 🧑‍💻 Source Code:
 
