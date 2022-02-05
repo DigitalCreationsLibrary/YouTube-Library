@@ -8,11 +8,13 @@ main_window.title("Checkbutton")
 
 var = IntVar()
 
-labVal = Label(main_window, text="", bg="white", fg="green", font=("Times",12))
-labVal.pack(pady=10)
 
 def getValue():
    labVal["text"] = str(var.get() )
+   
+   
+labVal = Label(main_window, text="", bg="white", fg="green", font=("Times",12))
+labVal.pack(pady=10)
 
 
 chB = Checkbutton(main_window, variable=var, text="I am A check button",font=("Times",12))
