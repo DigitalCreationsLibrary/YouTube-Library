@@ -7,7 +7,7 @@
 
 
 ## The Code
-- [FirstProject](/CODE/JAVAINTRO/)
+ [[FirstProject]](/CODE/JAVAINTRO/)
 - [/CODE/JAVAINTRO/FirstProject.java](/CODE/JAVAINTRO/FirstProject.java)
 - [/CODE/JAVAINTRO/Presentation.java](/CODE/JAVAINTRO/Presentation.java)
 
