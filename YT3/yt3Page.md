@@ -1,4 +1,4 @@
 # DIGITAL CREATIONS Channel Code
 ![](../images/YT3CA.png?raw=true)
 
-This is where the code of the [DIGITALCREATIONS channel](https://www.youtube.com/channel/UCw2zUthPykuMRuOmMMHtDcw) videos is published. For certain codes, the video may not be created yet.
+This is where the code associated with the [DIGITALCREATIONS channel](https://www.youtube.com/channel/UCw2zUthPykuMRuOmMMHtDcw) channel is published. For certain codes, the video may not be published yet.
