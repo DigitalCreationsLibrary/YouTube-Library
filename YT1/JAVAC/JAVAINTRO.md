@@ -8,9 +8,9 @@
 
 ## The Code
  ```bash
- |---[First Project Code Folder](/CODE/JAVAINTRO/)
-     |---[/CODE/JAVAINTRO/FirstProject.java](/CODE/JAVAINTRO/FirstProject.java)
-     |---[/CODE/JAVAINTRO/Presentation.java](/CODE/JAVAINTRO/Presentation.java)
+ |___[First Project Code Folder](/CODE/JAVAINTRO/)
+     |___[/CODE/JAVAINTRO/FirstProject.java](/CODE/JAVAINTRO/FirstProject.java)
+     |___[/CODE/JAVAINTRO/Presentation.java](/CODE/JAVAINTRO/Presentation.java)
  ```
 
 
