@@ -3,7 +3,7 @@
 
 ## The Video
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/01RlETg4ST8)
+[![Watch the video](https://i.imgur.com/01RlETg4ST8.png)](https://youtu.be/01RlETg4ST8)
 
 ## The Code
 
