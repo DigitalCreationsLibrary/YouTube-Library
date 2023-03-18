@@ -9,8 +9,8 @@
 ## The Code
  
 [First Project Code Folder](/CODE/JAVAINTRO/)
-- [/CODE/JAVAINTRO/FirstProject.java](/CODE/JAVAINTRO/FirstProject.java)
-- [/CODE/JAVAINTRO/Presentation.java](/CODE/JAVAINTRO/Presentation.java)
+- [FirstProject.java](/CODE/JAVAINTRO/FirstProject.java)
+- [Presentation.java](/CODE/JAVAINTRO/Presentation.java)
  
 
 
