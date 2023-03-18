@@ -3,7 +3,9 @@
 
 ## The Video
 
-[![Watch the video](https://img.youtube.com/vi/01RlETg4ST8/maxresdefault.jpg)](https://www.youtube.com/watch?v=01RlETg4ST8)
+[![Watch the video](https://img.youtube.com/vi/01RlETg4ST8/hqdefault.jpg)](https://www.youtube.com/w](https://youtu.be/01RlETg4ST8)
+https://youtu.be/<VIDEO URL>
+https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg
 
 
 ## The Code
