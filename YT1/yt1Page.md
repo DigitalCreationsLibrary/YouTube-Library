@@ -6,7 +6,7 @@ This is where the code of the [YT1 channel](https://www.youtube.com/channel/UCyo
 
 # [Python ML Code](PYML/PYML.md)
 # [Java Code](JAVAC/JAVAC.md)
-- [How to create a Java project with maven in NettBeans Ide](https://youtu.be/01RlETg4ST8) 
+- [How to create a Java project with maven in NettBeans Ide](JAVAC/JAVAINTRO.md) 
 # [Lang Code](LANG/LANG.md)
 - [How to install and code with Julia on Ubuntu and Windows 11](https://youtu.be/2XtzjlLwGuU)
 # [Python Tkinter Code](PYTK/PYTK.md)
