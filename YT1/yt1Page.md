@@ -1,8 +1,7 @@
 # CODINGDC Channel Code
 ![](../images/YT1CA.png?raw=true)
 
-This is where the code associated with the [CODINGDC](https://www.youtube.com/channel/UCyouN2On4khB5is1RcrR8Hw) channel videos is published. For certain codes, the video may not be created yet, but you can find the explanation in the related [website](https://www.aimosta.com) post.
-
+This is where the videos published in the [CODINGDC](https://www.youtube.com/channel/UCyouN2On4khB5is1RcrR8Hw) channel are available. 
 # [Python ML Code](PYML/PYML.md)
 # [Java Code](JAVAC/JAVAC.md)
 - [How to create a Java project with maven in NettBeans Ide](JAVAC/JAVAINTRO.md) 
