@@ -1,5 +1,5 @@
 # CODINGDC Channel Code
-![](../images/YT1CA.png?raw=true)
+![](../images/YT2CA.png?raw=true)
 
 This is where the code associated with the [CODINGDC](https://www.youtube.com/channel/UCyouN2On4khB5is1RcrR8Hw) channel videos is published. For certain codes, the video may not be created yet, but you can find the explanation in the related [website](https://www.aimosta.com) post.
 
