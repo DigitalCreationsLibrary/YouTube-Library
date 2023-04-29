@@ -1,4 +1,4 @@
-# CODINGDC Channel Code
+# CODINGDC Channel
 ![](../images/YT1CA.png?raw=true)
 
 This is where the videos published in the [CODINGDC](https://www.youtube.com/channel/UCyouN2On4khB5is1RcrR8Hw) channel are available. 
