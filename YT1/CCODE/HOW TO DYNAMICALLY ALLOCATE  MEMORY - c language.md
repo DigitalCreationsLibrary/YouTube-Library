@@ -1,0 +1,4 @@
+# HOW TO DYNAMICALLY ALLOCATE  MEMORY - c language
+
+uROnAahlMO0
+

@@ -1,0 +1,4 @@
+# HOW TO RETRIEVE A STRUCT FROM A FILE - C Language
+
+bboEZTh7q4w
+
