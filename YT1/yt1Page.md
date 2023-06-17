@@ -9,4 +9,5 @@ This is where the videos published in the [CODINGDC](https://www.youtube.com/cha
 - [How to install and code with Julia on Ubuntu and Windows 11](https://youtu.be/2XtzjlLwGuU)
 # [Python Tkinter Code](PYTK/PYTK.md)
 # [C Code](CCODE/CCODE.md)
+# [Miscellaneous](MISC/MISC.md)
 
