@@ -1,7 +1,10 @@
 
 # DC TOOLS
 
-While creating products, some technique can be used in different projects and products creation. This is what this category is about. We share the tutorials videos that we think may be useful for you, especially for your creation.
+![](../../images/dctools.png?raw=true)
+
+
+While creating products, some techniques can be used in different projects and products creations. This is what this category is about. We share the tutorials videos that we think may be useful for you, especially for your creations.
 
 ## DC Tools Videos List
  
