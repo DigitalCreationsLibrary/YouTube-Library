@@ -1,4 +1,4 @@
 # HOW TO USE A STRUCTURE IN C LANGUAGE
 
-mb77pA7MLj8
+[![Watch the video](https://img.youtube.com/vi/mb77pA7MLj8/hqdefault.jpg)](https://youtu.be/mb77pA7MLj8)
 

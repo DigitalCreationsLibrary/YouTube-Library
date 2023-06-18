@@ -1,4 +1,4 @@
 # HOW TO DYNAMICALLY ALLOCATE  MEMORY - c language
 
-uROnAahlMO0
+[![Watch the video](https://img.youtube.com/vi/uROnAahlMO0/hqdefault.jpg)](https://youtu.be/uROnAahlMO0)
 

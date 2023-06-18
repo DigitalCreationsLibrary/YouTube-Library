@@ -1,4 +1,4 @@
 # How to Initialize an Array in C
 
-vMSIH6pHy7Q
+[![Watch the video](https://img.youtube.com/vi/vMSIH6pHy7Q/hqdefault.jpg)](https://youtu.be/vMSIH6pHy7Q)
 
