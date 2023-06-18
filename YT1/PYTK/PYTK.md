@@ -22,4 +22,3 @@ This is the category related to **Python tkinter** library. They videos about **
 - [Add an item to a ListBox - tkinter- Python 3](<Add an item to a ListBox - tkinter- Python 3.md>)
 - [Move one item from a listbox to an other- Python3 Tkinter](<Move one item from a listbox to an other- Python3 Tkinter.md>)
 
-

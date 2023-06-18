@@ -47,7 +47,7 @@ This is where the videos published in the [CODINGDC](https://www.youtube.com/cha
 - [How to use STYLES to Create a RED LABEL using TKINTER - Python 3](<PYTK/How to use STYLES to Create a RED LABEL using TKINTER - Python 3.md>)
 - [combobox in tkinter how to add a scrollbar - python 3](<PYTK/combobox in tkinter how to add a scrollbar - python 3.md>)
 - [Add an item to a ListBox - tkinter- Python 3](<PYTK/Add an item to a ListBox - tkinter- Python 3.md>)
-- [Move one item from a listbox to an other- Python3: Tkinter](<PYTK/Move one item from a listbox to an other- Python3: Tkinter.md>)
+- [Move one item from a listbox to an other- Python3 Tkinter](<PYTK/Move one item from a listbox to an other- Python3 Tkinter.md>)
 
 
 # [C Videos](CCODE/CCODE.md)
