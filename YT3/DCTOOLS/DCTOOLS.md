@@ -1,16 +1,15 @@
 
-# How to Create a Java Project in NetBeans
+# DC TOOLS
 
-## The Video
+While creating products, some technique can be used in different projects and products creation. This is what this category is about. We share the tutorials videos that we think may be useful for you, especially for your creation.
 
-[![Watch the video](https://img.youtube.com/vi/01RlETg4ST8/hqdefault.jpg)](https://youtu.be/01RlETg4ST8)
-
-
-## The Code
+## DC Tools Videos List
  
-[First Project Code Folder](/CODE/JAVAINTRO/)
-- [FirstProject.java](/CODE/JAVAINTRO/FirstProject.java)
-- [Presentation.java](/CODE/JAVAINTRO/Presentation.java)
+- [Activity Intent in Android using Flags with Java](<Activity Intent in Android using Flags with Java.md>)
+- [Use flags in Android app to make Backpress button Works correctly](<Use flags in Android app to make Backpress button Works correctly.md>)
+- [Python TKINTER Text Widget](<Python TKINTER Text Widget.md>)
+- [Install emacs with nodejs on Windows](<Install emacs with nodejs on Windows.md>)
+- [Install GIMP and G'MIC on Windows 10](<Install GIMP and G'MIC on Windows 10.md>)
  
 
 
