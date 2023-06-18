@@ -20,6 +20,6 @@ This is the category related to **Python tkinter** library. They videos about **
 - [How to use STYLES to Create a RED LABEL using TKINTER - Python 3](<How to use STYLES to Create a RED LABEL using TKINTER - Python 3.md>)
 - [combobox in tkinter how to add a scrollbar - python 3](<combobox in tkinter how to add a scrollbar - python 3.md>)
 - [Add an item to a ListBox - tkinter- Python 3](<Add an item to a ListBox - tkinter- Python 3.md>)
-- [Move one item from a listbox to an other- Python3: Tkinter](<Move one item from a listbox to an other- Python3: Tkinter.md>)
+- [Move one item from a listbox to an other- Python3 Tkinter](<Move one item from a listbox to an other- Python3 Tkinter.md>)
 
 
