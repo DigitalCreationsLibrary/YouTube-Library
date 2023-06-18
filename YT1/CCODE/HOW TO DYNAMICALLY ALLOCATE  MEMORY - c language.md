@@ -2,7 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/uROnAahlMO0/hqdefault.jpg)](https://youtu.be/uROnAahlMO0)
 
-## Description 
+## Description
+
+  
 
 In the video, I explain how to dynamically allocate memory in the c language. The memory is allocate to a pointer to a defined structure.
 

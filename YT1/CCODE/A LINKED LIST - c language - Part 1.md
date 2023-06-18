@@ -2,7 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/S7L9kZdzFyQ/hqdefault.jpg)](https://youtu.be/S7L9kZdzFyQ)
 
-## Description 
+## Description
+
+  
 
 This is the part 1 of the 2 videos dedicated to linked lists.
 In the video I explain how to create a linked list. The programming language is c. And, I start from the previous video ( video 3 in the description ) and I add to it the necessary code to create a linked list.

@@ -2,7 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/yYgEBpeJ0OY/hqdefault.jpg)](https://youtu.be/yYgEBpeJ0OY)
 
-## Description 
+## Description
+
+  
 
 In the video I will explain how adding a semicolon to a for loop generates an unexpected result.
 The code is written using the c language.

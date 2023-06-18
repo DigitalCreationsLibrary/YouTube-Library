@@ -2,7 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/U8JSVdB1YYE/hqdefault.jpg)](https://youtu.be/U8JSVdB1YYE)
 
-## Description 
+## Description
+
+  
 
 This is the part 2 of the 2 videos dedicated to linked lists.
 In the video I explain how to traverse a linked list. The programming language is c. And, I start from the previous video ( video 3 in the description ) and I add to it the necessary code to traverse a linked list.

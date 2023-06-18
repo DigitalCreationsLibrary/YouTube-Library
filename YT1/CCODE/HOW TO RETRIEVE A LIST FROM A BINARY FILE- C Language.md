@@ -2,7 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/gfBK96gMwrg/hqdefault.jpg)](https://youtu.be/gfBK96gMwrg)
 
-## Description 
+## Description
+
+  
 
 In the video I explain how to retreive a list from a binary file. The language is c. And
 the video follows the one that describes how to extract one node ( video 1 below ) from

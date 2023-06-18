@@ -2,7 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/FxyQXoEhq-w/hqdefault.jpg)](https://youtu.be/FxyQXoEhq-w)
 
-## Description 
+## Description
+
+  
 
 In the video I explain how to create a linked list from information
 given by the user. The code is written in c language. And tested on ubuntu.

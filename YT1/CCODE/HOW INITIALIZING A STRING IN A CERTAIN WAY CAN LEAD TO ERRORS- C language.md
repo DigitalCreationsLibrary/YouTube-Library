@@ -2,7 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/QHXLk3xIogc/hqdefault.jpg)](https://youtu.be/QHXLk3xIogc)
 
-## Description 
+## Description
+
+  
 
 In the video I will explain how using strcpy, and initializing a string without specifying is lenght, generate an error.
 The code is written using the c language.

@@ -2,7 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/SlKJzjj7P8A/hqdefault.jpg)](https://youtu.be/SlKJzjj7P8A)
 
-## Description 
+## Description
+
+  
 
 In the video I explain how to output the content of a file line by line. I will use a while loop with fgets and feof functions. The code is written in c and tested on Ubunut 18.04.
 ------   Related Videos  ------------------------------------------------------------------------

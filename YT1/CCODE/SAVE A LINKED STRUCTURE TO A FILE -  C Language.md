@@ -2,7 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/h8aVBkiU-PM/hqdefault.jpg)](https://youtu.be/h8aVBkiU-PM)
 
-## Description 
+## Description
+
+  
 
 In the video I explain how to save an already created linked list to a binary file. The code is written in c Language. And it is a continuation to a previous video. You can see the link  (video 1) below.
 🎬 Related videos: ________________________________________________________________

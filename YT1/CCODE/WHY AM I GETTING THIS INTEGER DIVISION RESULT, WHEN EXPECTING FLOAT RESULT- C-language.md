@@ -2,7 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/EjBWtONYfxM/hqdefault.jpg)](https://youtu.be/EjBWtONYfxM)
 
-## Description 
+## Description
+
+  
 
 In the video I explain why using numeral in a division operation, in c language, can lead to unexpected results. 
 
