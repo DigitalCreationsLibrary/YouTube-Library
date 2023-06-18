@@ -77,4 +77,9 @@ This is where the videos published in the [CODINGDC](https://www.youtube.com/cha
 - [HOW TO USE A STRUCTURE IN C LANGUAGE](<CCODE/HOW TO USE A STRUCTURE IN C LANGUAGE.md>)
 - [ADD A NODE TO THE END OF LINKED LIST- c Language](<CCODE/ADD A NODE TO THE END OF LINKED LIST- c Language.md>)
 # [Miscellaneous](MISC/MISC.md)
+- [HOW TO USE PIPENV WITH PYTHON2 AND PYTHON3 BOTH INSTALLED](<MISC/HOW TO USE PIPENV WITH PYTHON2 AND PYTHON3 BOTH INSTALLED.md>)
+- [Install Perl and cpanm on Ubuntu How to use cpanm to install a module](<MISC/Install Perl and cpanm on Ubuntu How to use cpanm to install a module.md>)
+- [How to install and code with Julia on Ubuntu and  Windows 11](<MISC/How to install and code with Julia on Ubuntu and  Windows 11.md>)
+- [Use strlcpy in ubuntu 18.04](<MISC/Use strlcpy in ubuntu 18.04.md>)
+
 
