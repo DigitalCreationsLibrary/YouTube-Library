@@ -4,7 +4,11 @@
 This is where the videos published in the [CODINGDC](https://www.youtube.com/channel/UCyouN2On4khB5is1RcrR8Hw) channel are available. 
 # [Python ML Code](PYML/PYML.md)
 # [Java Code](JAVAC/JAVAC.md)
-- [How to create a Java project with maven in NettBeans Ide](JAVAC/JAVAINTRO.md) 
+- [How to start java programming language for beginners](<JAVAC/How to start java programming language for beginners.md>)
+- [How to create a Java project with maven in NettBeans Ide](<JAVAC/How to create a Java project with maven in NettBeans Ide.md>)
+- [What is a JAVA Constructor](<JAVAC/What is a JAVA Constructor.md>)
+- [What is the role of the JVM](<JAVAC/What is the role of the JVM.md>)
+
 # [Lang Code](LANG/LANG.md)
 - [How to install and code with Julia on Ubuntu and Windows 11](https://youtu.be/2XtzjlLwGuU)
 # [Python Tkinter Code](PYTK/PYTK.md)
