@@ -1,16 +1,9 @@
+# Discovery Videos
 
-# How to Create a Java Project in NetBeans
+![](../../images/disc.png?raw=true)
 
-## The Video
+Thorough our journey we discover tools, platforms, and concepts. We share our discoveries as well as our review about the digital business we are building.
 
-[![Watch the video](https://img.youtube.com/vi/01RlETg4ST8/hqdefault.jpg)](https://youtu.be/01RlETg4ST8)
-
-
-## The Code
- 
-[First Project Code Folder](/CODE/JAVAINTRO/)
-- [FirstProject.java](/CODE/JAVAINTRO/FirstProject.java)
-- [Presentation.java](/CODE/JAVAINTRO/Presentation.java)
- 
+## PDiscovery Videos List
 
 
