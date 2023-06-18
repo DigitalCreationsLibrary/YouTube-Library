@@ -2,7 +2,7 @@
 
 ![](../../images/lang.png?raw=true)
 
-This is the category related to the videos that tackle the installation of programming languages. They can be videos about the installation steps, how to write the first hello code in a particular language, or both.
+This is the category related to the videos that tackle the installation of programming languages. They can be videos about the installation steps, how to write the first hello code in a particular language, or both. The related codes and instructions can be found in our [Website](https://www.aimosta.com).
 
 ## Programming Language Videos List
 - [Powershell Language - Hello World code](<Powershell Language - Hello World code.md>)
