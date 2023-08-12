@@ -1,4 +1,6 @@
-# Python Tkinter Videos List- [Python Tkinter ColorPicker](<Python-Tkinter-ColorPicker-vid.md>)
+# Python Tkinter Videos List
+
+- [Python Tkinter ColorPicker](<Python-Tkinter-ColorPicker-vid.md>)
 - [Frames TK Python 3 | How to use 3 different Layout Managers in the Same Window](<Frames-TK-Python-3-How-to-use-3-different-Layout-Managers-in-the-Same-Window-vid.md>)
 - [tkinter listbox: how to delete an item- Python 3](<tkinter-listbox-how-to-delete-an-item-Python-3-vid.md>)
 - [Python3 - Tkinter Get Value from a Checkbutton](<Python3-Tkinter-Get-Value-from-a-Checkbutton-vid.md>)
