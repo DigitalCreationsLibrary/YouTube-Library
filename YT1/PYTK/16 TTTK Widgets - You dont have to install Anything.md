@@ -5,3 +5,5 @@
 ## Description
 
 the 16 TTK Python tkinter widgets already available when you install Python. 
+🔗The code:
+[Code Of The Video](https://github.com/DigitalCreationsLibrary/YouTube-Library/blob/main/Python%20Tkinter%20Widgets/ttk_oneshot.py)
