@@ -1,4 +1,4 @@
-# 16 TTTK Widgets, You don't have to install Anything!
+# 16 TTK Widgets, You don't have to install Anything!
 
 [![Watch the video](https://img.youtube.com/vi/OTrbTBqfly8/hqdefault.jpg)](https://youtu.be/OTrbTBqfly8)
 
