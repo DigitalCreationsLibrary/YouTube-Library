@@ -10,9 +10,10 @@ main_window.configure(background="#086788")
 
 
 s = ttk.Style()
-s.configure('.',background="#FFD6AF")
 
 s.theme_use("winnative")
+
+s.configure('.',background="#FFD6AF")
 
 
 # Adding the common TTK Widgets
