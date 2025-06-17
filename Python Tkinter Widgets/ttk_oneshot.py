@@ -8,10 +8,9 @@ main_window.title("TTK Widgets in One shot")
 main_window.geometry("640x480+300+50")
 main_window.configure(background="#086788")
 
-s = ttk.Style()
 
 s = ttk.Style()
-s.configure('.',background="#FFD6AF",bg="white")
+s.configure('.',background="#FFD6AF")
 
 s.theme_use("winnative")
 
