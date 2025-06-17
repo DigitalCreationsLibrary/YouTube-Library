@@ -92,7 +92,6 @@ notebook.add(ttk.Label(notebook,text="TTK Notebook Page 2"), text="Tab 2")
 
 progressbar = ttk.Progressbar(new_widgets,orient="horizontal",length=200,mode="determinate",value=50)
 progressbar.grid(padx=10,pady=5,row=4, column=2)
-new_style = ttk.Style()
 
 separator = ttk.Separator(new_widgets, orient="vertical", )
 separator.grid(padx=5, pady=5, row=4, column=3, sticky="ns")
