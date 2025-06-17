@@ -79,8 +79,7 @@ new_widgets=tk.Frame(main_window,bg="#086788",width=450,height=200,relief="ridge
 new_widgets.pack(padx=5,pady=5,fill="both")
 
 
-# sizegrip = ttk.Sizegrip(common_widgets)
-# sizegrip.grid(padx=10,pady=5,row=3, column=0)
+
 ## The Actual Widgets
 
 combobox = ttk.Combobox(new_widgets,values=["TTK Combobox item 1","TTK Combobox item 2"])
@@ -94,9 +93,8 @@ notebook.add(ttk.Label(notebook,text="TTK Notebook Page 2"), text="Tab 2")
 progressbar = ttk.Progressbar(new_widgets,orient="horizontal",length=200,mode="determinate",value=50)
 progressbar.grid(padx=10,pady=5,row=4, column=2)
 new_style = ttk.Style()
-new_style.configure("any.TSeparator",background="black",foreground="white")
-separator = ttk.Separator(new_widgets, orient="vertical", )
 
+separator = ttk.Separator(new_widgets, orient="vertical", )
 separator.grid(padx=5, pady=5, row=4, column=3, sticky="ns")
 
 sizegrip = ttk.Sizegrip(new_widgets,)
