@@ -1,4 +1,3 @@
-![](images/DIGITAL.png?raw=true)
 
 In this media library you will find all the descriptions of the videos that are published in Three of our *Youtube* channels: <br>
 
