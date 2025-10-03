@@ -1,5 +1,5 @@
 # CODINGDC Channel
-![](../images/YT1CA.png?raw=true)
+![](../images/codingdc.png?raw=true)
 
 This is where the videos published in the [CODINGDC](https://www.youtube.com/channel/UCyouN2On4khB5is1RcrR8Hw) channel are available. 
 # [Python ML Videos](PYML/PYML.md)
@@ -82,5 +82,6 @@ This is where the videos published in the [CODINGDC](https://www.youtube.com/cha
 - [Install Perl and cpanm on Ubuntu How to use cpanm to install a module](<MISC/Install Perl and cpanm on Ubuntu How to use cpanm to install a module.md>)
 - [How to install and code with Julia on Ubuntu and  Windows 11](<MISC/How to install and code with Julia on Ubuntu and  Windows 11.md>)
 - [Use strlcpy in ubuntu 18.04](<MISC/Use strlcpy in ubuntu 18.04.md>)
+
 
 
