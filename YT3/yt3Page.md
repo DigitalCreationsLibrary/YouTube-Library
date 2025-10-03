@@ -1,5 +1,5 @@
 # DIGITAL CREATIONS Channel Code
-![](../images/YT3CA.png?raw=true)
+![](../images/digital_creations.png?raw=true)
 
 This is the list of [DIGITALCREATIONS channel](https://www.youtube.com/channel/UCw2zUthPykuMRuOmMMHtDcw) channel published videos.
 
@@ -10,5 +10,6 @@ This is the list of [DIGITALCREATIONS channel](https://www.youtube.com/channel/U
 - [Python TKINTER Text Widget](<DCTOOLS/Python TKINTER Text Widget.md>)
 - [Install emacs with nodejs on Windows](<DCTOOLS/Install emacs with nodejs on Windows.md>)
 - [Install GIMP and G'MIC on Windows 10](<DCTOOLS/Install GIMP and G'MIC on Windows 10.md>)
+
 
 # [AFFILIATES PRODUCTS](AFFILIATES/AFFILIATES.md)
