@@ -6,12 +6,12 @@ In this media library you will find all the descriptions of the videos that are 
 - [@CODINGDC](https://www.youtube.com/channel/UCyouN2On4khB5is1RcrR8Hw) Channel: [CodingDC Page](YT1/yt1Page.md)
 
 
-## 2025 Calendar
+## 2025 Narrow Calendar
 
 <table border="0" cellpadding="0" cellspacing="0" class="year">
 <tr><th colspan="3" class="year">2025</th></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">January</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="wed">1</td><td class="thu">2</td><td class="fri">3</td><td class="sat">4</td></tr>
 <tr><td class="sun">5</td><td class="mon">6</td><td class="tue">7</td><td class="wed">8</td><td class="thu">9</td><td class="fri">10</td><td class="sat">11</td></tr>
 <tr><td class="sun">12</td><td class="mon">13</td><td class="tue">14</td><td class="wed">15</td><td class="thu">16</td><td class="fri">17</td><td class="sat">18</td></tr>
@@ -20,7 +20,7 @@ In this media library you will find all the descriptions of the videos that are 
 </table>
 </td><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">February</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="sat">1</td></tr>
 <tr><td class="sun">2</td><td class="mon">3</td><td class="tue">4</td><td class="wed">5</td><td class="thu">6</td><td class="fri">7</td><td class="sat">8</td></tr>
 <tr><td class="sun">9</td><td class="mon">10</td><td class="tue">11</td><td class="wed">12</td><td class="thu">13</td><td class="fri">14</td><td class="sat">15</td></tr>
@@ -29,7 +29,7 @@ In this media library you will find all the descriptions of the videos that are 
 </table>
 </td><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">March</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="sat">1</td></tr>
 <tr><td class="sun">2</td><td class="mon">3</td><td class="tue">4</td><td class="wed">5</td><td class="thu">6</td><td class="fri">7</td><td class="sat">8</td></tr>
 <tr><td class="sun">9</td><td class="mon">10</td><td class="tue">11</td><td class="wed">12</td><td class="thu">13</td><td class="fri">14</td><td class="sat">15</td></tr>
@@ -39,7 +39,7 @@ In this media library you will find all the descriptions of the videos that are 
 </table>
 </td></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">April</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="tue">1</td><td class="wed">2</td><td class="thu">3</td><td class="fri">4</td><td class="sat">5</td></tr>
 <tr><td class="sun">6</td><td class="mon">7</td><td class="tue">8</td><td class="wed">9</td><td class="thu">10</td><td class="fri">11</td><td class="sat">12</td></tr>
 <tr><td class="sun">13</td><td class="mon">14</td><td class="tue">15</td><td class="wed">16</td><td class="thu">17</td><td class="fri">18</td><td class="sat">19</td></tr>
@@ -48,7 +48,7 @@ In this media library you will find all the descriptions of the videos that are 
 </table>
 </td><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">May</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="thu">1</td><td class="fri">2</td><td class="sat">3</td></tr>
 <tr><td class="sun">4</td><td class="mon">5</td><td class="tue">6</td><td class="wed">7</td><td class="thu">8</td><td class="fri">9</td><td class="sat">10</td></tr>
 <tr><td class="sun">11</td><td class="mon">12</td><td class="tue">13</td><td class="wed">14</td><td class="thu">15</td><td class="fri">16</td><td class="sat">17</td></tr>
@@ -57,7 +57,7 @@ In this media library you will find all the descriptions of the videos that are 
 </table>
 </td><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">June</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="sun">1</td><td class="mon">2</td><td class="tue">3</td><td class="wed">4</td><td class="thu">5</td><td class="fri">6</td><td class="sat">7</td></tr>
 <tr><td class="sun">8</td><td class="mon">9</td><td class="tue">10</td><td class="wed">11</td><td class="thu">12</td><td class="fri">13</td><td class="sat">14</td></tr>
 <tr><td class="sun">15</td><td class="mon">16</td><td class="tue">17</td><td class="wed">18</td><td class="thu">19</td><td class="fri">20</td><td class="sat">21</td></tr>
@@ -66,7 +66,7 @@ In this media library you will find all the descriptions of the videos that are 
 </table>
 </td></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">July</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="tue">1</td><td class="wed">2</td><td class="thu">3</td><td class="fri">4</td><td class="sat">5</td></tr>
 <tr><td class="sun">6</td><td class="mon">7</td><td class="tue">8</td><td class="wed">9</td><td class="thu">10</td><td class="fri">11</td><td class="sat">12</td></tr>
 <tr><td class="sun">13</td><td class="mon">14</td><td class="tue">15</td><td class="wed">16</td><td class="thu">17</td><td class="fri">18</td><td class="sat">19</td></tr>
@@ -75,7 +75,7 @@ In this media library you will find all the descriptions of the videos that are 
 </table>
 </td><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">August</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="fri">1</td><td class="sat">2</td></tr>
 <tr><td class="sun">3</td><td class="mon">4</td><td class="tue">5</td><td class="wed">6</td><td class="thu">7</td><td class="fri">8</td><td class="sat">9</td></tr>
 <tr><td class="sun">10</td><td class="mon">11</td><td class="tue">12</td><td class="wed">13</td><td class="thu">14</td><td class="fri">15</td><td class="sat">16</td></tr>
@@ -85,7 +85,7 @@ In this media library you will find all the descriptions of the videos that are 
 </table>
 </td><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">September</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="noday">&nbsp;</td><td class="mon">1</td><td class="tue">2</td><td class="wed">3</td><td class="thu">4</td><td class="fri">5</td><td class="sat">6</td></tr>
 <tr><td class="sun">7</td><td class="mon">8</td><td class="tue">9</td><td class="wed">10</td><td class="thu">11</td><td class="fri">12</td><td class="sat">13</td></tr>
 <tr><td class="sun">14</td><td class="mon">15</td><td class="tue">16</td><td class="wed">17</td><td class="thu">18</td><td class="fri">19</td><td class="sat">20</td></tr>
@@ -94,7 +94,7 @@ In this media library you will find all the descriptions of the videos that are 
 </table>
 </td></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">October</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="wed">1</td><td class="thu">2</td><td class="fri">3</td><td class="sat">4</td></tr>
 <tr><td class="sun">5</td><td class="mon">6</td><td class="tue">7</td><td class="wed">8</td><td class="thu">9</td><td class="fri">10</td><td class="sat">11</td></tr>
 <tr><td class="sun">12</td><td class="mon">13</td><td class="tue">14</td><td class="wed">15</td><td class="thu">16</td><td class="fri">17</td><td class="sat">18</td></tr>
@@ -103,7 +103,7 @@ In this media library you will find all the descriptions of the videos that are 
 </table>
 </td><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">November</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="sat">1</td></tr>
 <tr><td class="sun">2</td><td class="mon">3</td><td class="tue">4</td><td class="wed">5</td><td class="thu">6</td><td class="fri">7</td><td class="sat">8</td></tr>
 <tr><td class="sun">9</td><td class="mon">10</td><td class="tue">11</td><td class="wed">12</td><td class="thu">13</td><td class="fri">14</td><td class="sat">15</td></tr>
@@ -113,7 +113,7 @@ In this media library you will find all the descriptions of the videos that are 
 </table>
 </td><td><table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">December</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
+<tr><th class="sun">Su</th><th class="mon">Mo</th><th class="tue">Tu</th><th class="wed">We</th><th class="thu">Th</th><th class="fri">Fr</th><th class="sat">Sa</th></tr>
 <tr><td class="noday">&nbsp;</td><td class="mon">1</td><td class="tue">2</td><td class="wed">3</td><td class="thu">4</td><td class="fri">5</td><td class="sat">6</td></tr>
 <tr><td class="sun">7</td><td class="mon">8</td><td class="tue">9</td><td class="wed">10</td><td class="thu">11</td><td class="fri">12</td><td class="sat">13</td></tr>
 <tr><td class="sun">14</td><td class="mon">15</td><td class="tue">16</td><td class="wed">17</td><td class="thu">18</td><td class="fri">19</td><td class="sat">20</td></tr>
