@@ -7,45 +7,46 @@ In this media library you will find all the descriptions of the videos that are 
 
 
 
-# 2025 Calendar
+# 2026 Calendar
 
-|     **January**     |     **February**    |      **March**      |
-| S M T W T F S | S M T W T F S | S M T W T F S |
-| :---: | :---: | :---: |
-| `          1  2  3  4` | `                   1` | `                   1` |
-| ` 5  6  7  8  9 10 11` | ` 2  [3](https://www.google.com)  4  5  6  7  8` | ` 2  3  4  5  6  7  8` |
-| `12 13 14 15 16 17 18` | ` 9 10 11 12 13 14 15` | ` 9 10 11 12 13 14 15` |
-| `19 20 21 22 23 24 25` | `16 17 18 19 20 21 22` | `16 17 18 19 20 21 22` |
-| `26 27 28 29 30 31   ` | `23 24 25 26 27 28   ` | `23 24 25 26 27 28 29` |
-|               |               | `30 31               ` |
+| **January** | **February** | **March** |
+| :--- | :--- | :--- |
+| S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S | S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S | S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;2&nbsp;&nbsp;3 | &nbsp;1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5&nbsp;&nbsp;6&nbsp;&nbsp;7 | &nbsp;1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5&nbsp;&nbsp;6&nbsp;&nbsp;7 |
+| &nbsp;4&nbsp;&nbsp;5&nbsp;&nbsp;6&nbsp;&nbsp;7&nbsp;&nbsp;8&nbsp;&nbsp;9&nbsp;10 | &nbsp;8&nbsp;&nbsp;9&nbsp;10&nbsp;11&nbsp;12&nbsp;13&nbsp;14 | &nbsp;8&nbsp;&nbsp;9&nbsp;10&nbsp;11&nbsp;12&nbsp;13&nbsp;14 |
+| 11&nbsp;12&nbsp;13&nbsp;14&nbsp;15&nbsp;16&nbsp;17 | 15&nbsp;16&nbsp;17&nbsp;18&nbsp;19&nbsp;20&nbsp;21 | 15&nbsp;16&nbsp;17&nbsp;18&nbsp;19&nbsp;20&nbsp;21 |
+| 18&nbsp;19&nbsp;20&nbsp;21&nbsp;22&nbsp;23&nbsp;24 | 22&nbsp;23&nbsp;24&nbsp;25&nbsp;26&nbsp;27&nbsp;28 | 22&nbsp;23&nbsp;24&nbsp;25&nbsp;26&nbsp;27&nbsp;28 |
+| 25&nbsp;26&nbsp;27&nbsp;28&nbsp;29&nbsp;30&nbsp;31 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 29&nbsp;30&nbsp;31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
-|      **April**      |       **May**       |       **June**      |
-| S M T W T F S | S M T W T F S | S M T W T F S |
-| :---: | :---: | :---: |
-| `       1  2  3  4  5` | `             1  2  3` | ` 1  2  3  4  5  6  7` |
-| ` 6  7  8  9 10 11 12` | ` 4  5  6  7  8  9 10` | ` 8  9 10 11 12 13 14` |
-| `13 14 15 16 17 18 19` | `11 12 13 14 15 16 17` | `15 16 17 18 19 20 21` |
-| `20 21 22 23 24 25 26` | `18 19 20 21 22 23 24` | `22 23 24 25 26 27 28` |
-| `27 28 29 30         ` | `25 26 27 28 29 30 31` | `29 30               ` |
+| **April** | **May** | **June** |
+| :--- | :--- | :--- |
+| S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S | S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S | S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;2 | &nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5&nbsp;&nbsp;6 |
+| &nbsp;5&nbsp;&nbsp;6&nbsp;&nbsp;7&nbsp;&nbsp;8&nbsp;&nbsp;9&nbsp;10&nbsp;11 | &nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5&nbsp;&nbsp;6&nbsp;&nbsp;7&nbsp;&nbsp;8&nbsp;&nbsp;9 | &nbsp;7&nbsp;&nbsp;8&nbsp;&nbsp;9&nbsp;10&nbsp;11&nbsp;12&nbsp;13 |
+| 12&nbsp;13&nbsp;14&nbsp;15&nbsp;16&nbsp;17&nbsp;18 | 10&nbsp;11&nbsp;12&nbsp;13&nbsp;14&nbsp;15&nbsp;16 | 14&nbsp;15&nbsp;16&nbsp;17&nbsp;18&nbsp;19&nbsp;20 |
+| 19&nbsp;20&nbsp;21&nbsp;22&nbsp;23&nbsp;24&nbsp;25 | 17&nbsp;18&nbsp;19&nbsp;20&nbsp;21&nbsp;22&nbsp;23 | 21&nbsp;22&nbsp;23&nbsp;24&nbsp;25&nbsp;26&nbsp;27 |
+| 26&nbsp;27&nbsp;28&nbsp;29&nbsp;30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 24&nbsp;25&nbsp;26&nbsp;27&nbsp;28&nbsp;29&nbsp;30 | 28&nbsp;29&nbsp;30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
-|       **July**      |      **August**     |    **September**    |
-| S M T W T F S | S M T W T F S | S M T W T F S |
-| :---: | :---: | :---: |
-| `       1  2  3  4  5` | `                1  2` | `    1  2  3  4  5  6` |
-| ` 6  7  8  9 10 11 12` | ` 3  4  5  6  7  8  9` | ` 7  8  9 10 11 12 13` |
-| `13 14 15 16 17 18 19` | `10 11 12 13 14 15 16` | `14 15 16 17 18 19 20` |
-| `20 21 22 23 24 25 26` | `17 18 19 20 21 22 23` | `21 22 23 24 25 26 27` |
-| `27 28 29 30 31      ` | `24 25 26 27 28 29 30` | `28 29 30            ` |
-|               | `31                  ` |               |
+| **July** | **August** | **September** |
+| :--- | :--- | :--- |
+| S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S | S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S | S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5 |
+| &nbsp;5&nbsp;&nbsp;6&nbsp;&nbsp;7&nbsp;&nbsp;8&nbsp;&nbsp;9&nbsp;10&nbsp;11 | &nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5&nbsp;&nbsp;6&nbsp;&nbsp;7&nbsp;&nbsp;8 | &nbsp;6&nbsp;&nbsp;7&nbsp;&nbsp;8&nbsp;&nbsp;9&nbsp;10&nbsp;11&nbsp;12 |
+| 12&nbsp;13&nbsp;14&nbsp;15&nbsp;16&nbsp;17&nbsp;18 | &nbsp;9&nbsp;10&nbsp;11&nbsp;12&nbsp;13&nbsp;14&nbsp;15 | 13&nbsp;14&nbsp;15&nbsp;16&nbsp;17&nbsp;18&nbsp;19 |
+| 19&nbsp;20&nbsp;21&nbsp;22&nbsp;23&nbsp;24&nbsp;25 | 16&nbsp;17&nbsp;18&nbsp;19&nbsp;20&nbsp;21&nbsp;22 | 20&nbsp;21&nbsp;22&nbsp;23&nbsp;24&nbsp;25&nbsp;26 |
+| 26&nbsp;27&nbsp;28&nbsp;29&nbsp;30&nbsp;31&nbsp;&nbsp;&nbsp; | 23&nbsp;24&nbsp;25&nbsp;26&nbsp;27&nbsp;28&nbsp;29 | 27&nbsp;28&nbsp;29&nbsp;30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 30&nbsp;31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
-|     **October**     |     **November**    |     **December**    |
-| S M T W T F S | S M T W T F S | S M T W T F S |
-| :---: | :---: | :---: |
-| `          1  2  3  4` | `                   1` | `    1  2  3  4  5  6` |
-| ` 5  6  7  8  9 10 11` | ` 2  3  4  5  6  7  8` | ` 7  8  9 10 11 12 13` |
-| `12 13 14 15 16 17 18` | ` 9 10 11 12 13 14 15` | `14 15 16 17 18 19 20` |
-| `19 20 21 22 23 24 25` | `16 17 18 19 20 21 22` | `21 22 23 24 25 26 27` |
-| `26 27 28 29 30 31   ` | `23 24 25 26 27 28 29` | `28 29 30 31         ` |
-|               | `30                  ` |               |
+| **October** | **November** | **December** |
+| :--- | :--- | :--- |
+| S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S | S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S | S&nbsp;&nbsp;M&nbsp;&nbsp;T&nbsp;&nbsp;W&nbsp;&nbsp;T&nbsp;&nbsp;F&nbsp;&nbsp;S |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;2&nbsp;&nbsp;3 | &nbsp;1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5&nbsp;&nbsp;6&nbsp;&nbsp;7 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5 |
+| &nbsp;4&nbsp;&nbsp;5&nbsp;&nbsp;6&nbsp;&nbsp;7&nbsp;&nbsp;8&nbsp;&nbsp;9&nbsp;10 | &nbsp;8&nbsp;&nbsp;9&nbsp;10&nbsp;11&nbsp;12&nbsp;13&nbsp;14 | &nbsp;6&nbsp;&nbsp;7&nbsp;&nbsp;8&nbsp;&nbsp;9&nbsp;10&nbsp;11&nbsp;12 |
+| 11&nbsp;12&nbsp;13&nbsp;14&nbsp;15&nbsp;16&nbsp;17 | 15&nbsp;16&nbsp;17&nbsp;18&nbsp;19&nbsp;20&nbsp;21 | 13&nbsp;14&nbsp;15&nbsp;16&nbsp;17&nbsp;18&nbsp;19 |
+| 18&nbsp;19&nbsp;20&nbsp;21&nbsp;22&nbsp;23&nbsp;24 | 22&nbsp;23&nbsp;24&nbsp;25&nbsp;26&nbsp;27&nbsp;28 | 20&nbsp;21&nbsp;22&nbsp;23&nbsp;24&nbsp;25&nbsp;26 |
+| 25&nbsp;26&nbsp;27&nbsp;28&nbsp;29&nbsp;30&nbsp;31 | 29&nbsp;30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 27&nbsp;28&nbsp;29&nbsp;30&nbsp;31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+
+
 
 
